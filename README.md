@@ -6,7 +6,7 @@
   * 😄[Blog Page](http://blog.drscorpio.site/)
   * 📫Reach me at: Dr_Scorpio@outlook.com
 
-### Skills,Platforms && Tools
+### Platforms && Skills
  * 💻 &#160; [![](https://img.shields.io/badge/-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
  [![](https://img.shields.io/badge/-Windows10-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 
