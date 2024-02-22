@@ -1,7 +1,6 @@
 ### ✨High Five✨ 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
-  * 🌱Learning ComputerScience in collage
   * 🤔Interesting in backend development && cloud native
   * 😄[Blog Page](http://blog.drscorpio.site/)
   * 📫Reach me at: Dr_Scorpio@outlook.com
